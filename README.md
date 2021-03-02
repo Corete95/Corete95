@@ -1,16 +1,12 @@
 # 김정현
-###  Front-End Developer
+### Front-End Developer
 # About Me
-**소통을 중요시하며**, 함께 하고 싶은 개발자
-
-새로운 기술에 **두려움 없이 도전하는** 개발자
-
-
+**소통을 중요시하며**, 함께 하고 싶은 개발자<br/>
+새로운 기술에 **두려움 없이 도전하는** 개발자<br/>
 뒤돌아 봤을 때도 생각나고 **다시 같이 일하고 싶은 개발자**를 목표로 하고 있습니다.
 
 # Contact
-Email.  **fanthell95@gmail.com**
-
+Email.  **fanthell95@gmail.com**<br/>
 Blog.  **https://velog.io/@corete**
 ## Stack
 <div>

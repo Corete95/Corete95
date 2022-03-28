@@ -15,11 +15,21 @@
 <hr/>
 
 <h3>Latest Project</h3>
- 
- <a href="www.weeeating.com ">
+  
+ <a href="https://writingmark.netlify.app" target="_blank">
+ 글갈피 :: 내게 와닿았던 글귀를 남에게 공유하는 서비스
+</a>
+<span>. 현재 서비스 운영중</span>
+
+<br/>
+<br/>
+
+[![WritingMark Repo](https://github-readme-stats.vercel.app/api/pin/?username=Corete95&repo=WritingMark)](https://github.com/Corete95/WritingMark)
+
+ <a href="https://www.weeeating.com " target="_blank">
  위이팅 :: 위코더 맛집 추천 사이트
 </a>
-<span>. 현재는 서버 닫음</span>
+<span>. 현재 서비스 종료</span>
 
 <br/>
 <br/>

@@ -19,7 +19,7 @@
 <table>
   <tr>
   <td>
-   <a href="https://www.weeeating.com " target="_blank">메소야 :: 캐릭터 정보 검색 사이트</a>
+   <a href="https://mesoya.vercel.app" target="_blank">메소야 :: 캐릭터 정보 검색 사이트</a>
     <span>. 현재 개발중 </span>
     
   <br/>
@@ -28,7 +28,7 @@
   [![soulFood Repo](https://github-readme-stats.vercel.app/api/pin/?username=Corete95&repo=Mesoya)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/](https://github.com/Corete95/Mesoya))
 </td>
    <td>
-     <a href="https://www.weeeating.com " target="_blank">소울푸드 :: 인생 맛집 추천 사이트</a>
+     <a href="https://soulfood-map.vercel.app" target="_blank">소울푸드 :: 인생 맛집 추천 사이트</a>
      <span>. 현재 개발중 </span>
      <br/>
      <br/>

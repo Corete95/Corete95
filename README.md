@@ -25,7 +25,7 @@
   <br/>
   <br/>
     
-  [![soulFood Repo](https://github-readme-stats.vercel.app/api/pin/?username=Corete95&repo=Mesoya)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/](https://github.com/Corete95/Mesoya))
+  [![soulFood Repo](https://github-readme-stats.vercel.app/api/pin/?username=Corete95&repo=Mesoya)](https://github.com/Corete95/Mesoya)
 </td>
    <td>
      <a href="https://soulfood-map.vercel.app" target="_blank">소울푸드 :: 인생 맛집 추천 사이트</a>
@@ -33,7 +33,7 @@
      <br/>
      <br/>
      
-  [![soulFood Repo](https://github-readme-stats.vercel.app/api/pin/?username=Corete95&repo=Soulfood)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/](https://github.com/Corete95/Soulfood))
+  [![soulFood Repo](https://github-readme-stats.vercel.app/api/pin/?username=Corete95&repo=Soulfood)](https://github.com/Corete95/Soulfood)
   </td>
   </tr>
 </table>

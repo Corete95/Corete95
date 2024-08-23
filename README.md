@@ -19,17 +19,17 @@
 <table>
   <tr>
   <td>
-   <a href="https://mesoya.vercel.app" target="_blank">메소야 :: 캐릭터 정보 검색 사이트</a>
+   <a href="https://www.mesoya.kr" target="_blank">캐릭터 정보 검색 사이트</a>
     <span>. 현재 개발중 </span>
     
   <br/>
   <br/>
     
-  [![soulFood Repo](https://github-readme-stats.vercel.app/api/pin/?username=Corete95&repo=Mesoya)](https://github.com/Corete95/Mesoya)
+  [![Character-Search-Project Repo](https://github-readme-stats.vercel.app/api/pin/?username=Corete95&repo=Character-Search-Project)](https://github.com/Corete95/Character-Search-Project)
 </td>
    <td>
      <a href="https://soulfood-map.vercel.app" target="_blank">소울푸드 :: 인생 맛집 추천 사이트</a>
-     <span>. 현재 개발중 </span>
+     <span>. 현재 개발중단 </span>
      <br/>
      <br/>
      
